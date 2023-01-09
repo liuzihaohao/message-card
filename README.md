@@ -61,11 +61,3 @@ README.md
 如果对默认样式不喜欢可以进行修改，具体请看 [**样式个性化**](docs/v1.1.0/individualization.md)
 #### 参与贡献
 对代码不熟悉？具体请看 [代码讲解](docs/v1.1.0/code_explanation.md)
-```
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-```
-#### 历史版本
-[v1.0.0 创建](docs\v1.0.0)
